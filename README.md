@@ -1,5 +1,6 @@
 # Analyze-a-Phishing-Email-Sample.
 Analyzing the Email to check whether the  Email and the Context Shared is Suspicious or Malicious with EML Analyzer.
+
 *Downloaded the EML File from the Internet.
 *The Tool Used for email Spoofing EML Analyzer for analyzing the context Available in the EML file.
 *Checking the Details of the EML File .
@@ -17,3 +18,6 @@ Analyzing the Email to check whether the  Email and the Context Shared is Suspic
 
 #recommendation
 *MX Toolbox Is also a good analyzing tool But i Just like Go With EML Analyzer.
+
+#Potential Risks from the Phishing Emails
+Phishing emails pose various risks, including financial losses, identity theft, malware infections, and reputational damage for individuals and organizations. They can also lead to unauthorized access to sensitive data and account takeovers. 
