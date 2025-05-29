@@ -16,8 +16,8 @@ Analyzing the Email to check whether the  Email and the Context Shared is Suspic
 ![Phishing EMail SS 04 jpg](https://github.com/user-attachments/assets/94520574-3ea5-4745-bd56-f1afc7d39924)
 
 
-#recommendation
+# recommendation
 *MX Toolbox Is also a good analyzing tool But i Just like Go With EML Analyzer.
 
-#Potential Risks from the Phishing Emails
+# Potential Risks from the Phishing Emails
 Phishing emails pose various risks, including financial losses, identity theft, malware infections, and reputational damage for individuals and organizations. They can also lead to unauthorized access to sensitive data and account takeovers. 
