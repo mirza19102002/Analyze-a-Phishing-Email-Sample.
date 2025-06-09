@@ -16,7 +16,7 @@ Analyzing the Email to check whether the  Email and the Context Shared is Suspic
 ![Phishing EMail SS 04 jpg](https://github.com/user-attachments/assets/94520574-3ea5-4745-bd56-f1afc7d39924)
 
 
-# recommendation
+# Recommendation
 *MX Toolbox Is also a good analyzing tool But i Just like Go With EML Analyzer.
 
 # Potential Risks from the Phishing Emails
